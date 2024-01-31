@@ -1,0 +1,217 @@
+index:
+<div class="team-avatar">
+  <img src="/images/Team_Avatar.jpg" alt="Team Avatar">
+  <a href="https://internetingishard.netlify.app/html-and-css/links-and-images/"></a>
+</div>
+
+characters:
+<div class="characterss">
+  <a href= aang.html><img src="/images/aang.png" alt="Aang 2"></a>
+
+  <a href= katara.html><img src="/images/katara.png" alt="Katara 2"></a>
+
+  <a href= sokka.html><img src="/images/sokka.png" alt="Sokka"></a>
+
+  <a href= toph.html><img src="/images/toph.png" alt="Toph"></a>
+
+  <a href= zuko.html><img src="/images/zuko.png" alt="Zuko"></a>
+</div>
+
+<nav>
+  <a href="https://nl.pinterest.com/isisclo/">images by Clío Hernández</a>
+</nav>
+
+aang:
+<div class="avatar">
+  <img src="/images/avatar-state.png" alt="Avatar State"> 
+</div>
+
+<nav>
+  <a href="https://nl.pinterest.com/pin/43276846414886223/">image by xxGutzx</a>
+</nav>
+
+<video controls width="250">
+  <source src="https://vm.tiktok.com/ZGeLpQkuN/"
+  type="video/webm">
+
+  <source src="/videos/aang.MP4" type="video/MP4">
+</video>
+
+<div class="aang-baby">
+  <img src="/images/aangbaby.jpg" alt="Aang Baby">
+</div>
+                
+<nav>
+  <a href="https://nl.pinterest.com/pin/142848619403287417/">image found on Pinterest</a>
+</nav>
+
+katara:
+<div class="avatar">
+  <img src="/images/katarafight.gif" alt="katara fight">
+</div>
+
+<nav>
+  <a href="https://nl.pinterest.com/pin/65865213290025088/">image found on Pinterest</a>
+</nav>
+
+<video controls width="250">
+  <source src="https://vm.tiktok.com/ZGeLpXVN7/" type="video/webm">
+
+  <source src="/videos/katara.MP4" type="video/MP4">
+</video>
+
+<div class="all-bending">
+  <img src="/images/blood.gif" alt="blood bending">
+</div>
+            
+<nav>
+  <a href="https://nl.pinterest.com/pin/719872321703075412/">image found on Pinterest</a>
+</nav>
+
+<div class="aang-baby">
+  <img src="/images/youngkatara.jpg" alt="katara young">
+</div>
+                    
+<nav>
+  <a href="https://nl.pinterest.com/pin/138767232261974973/">image found on Pinterest</a>
+</nav>
+
+sokka:
+<div class="avatar">
+  <img src="/images/s.gif" alt="Sokka">
+</div>
+        
+<nav>
+  <a href="https://nl.pinterest.com/pin/27443878968925035/">image found on Pinterest</a>
+</nav>
+
+<video controls width="250">
+  <source src="https://vm.tiktok.com/ZGeLptJce/" type="video/webm">
+                
+  <source src="/videos/sokka.MP4" type="video/MP4">
+</video>
+
+<div class="all-bending">
+  <img src="/images/sokkafight.gif" alt="sokka fight">
+</div>
+
+<div>
+<nav>
+  <a href="https://nl.pinterest.com/pin/312226186683299256/">image found on Pinterest</a>
+</nav>
+</div>
+
+<div class="aang-baby">
+  <img src="/images/youngsokka.jpg" alt="sokka young">
+</div>
+
+<nav>
+  <a href="https://nl.pinterest.com/pin/312226186683299256/">image found on Pinterest</a>
+</nav>
+
+toph:
+<div class="avatar">
+  <img src="/images/tophbending.jpg" alt="Toph Bending">
+</div>
+
+<nav>
+  <a href="https://nl.pinterest.com/pin/20829217019055275/">image found on Pinterest</a>
+</nav>
+
+<video controls width="250">
+  <source src="https://vm.tiktok.com/ZGeLsYMog/" type="video/webm">
+
+  <source src="/videos/toph.MP4" type="video/MP4">
+</video>
+
+<div class="all-bending">
+  <img src="/images/tophfight.gif" alt="toph fight">
+</div>
+
+<div>
+  <nav>
+    <a href="https://nl.pinterest.com/pin/743656957248120292/">image found on Pinterest</a>
+  </nav>
+</div>
+
+<div class="aang-baby">
+  <img src="/images/youngtoph.gif" alt="toph young">
+</div>
+                
+<nav>
+  <a href="https://nl.pinterest.com/pin/102879172726982024/">image found on Pinterest</a>
+</nav>
+
+zuko:
+<div class="avatar">
+  <img src="/images/daddyzuko.jpg" alt="Daddy Zuko">
+</div>
+
+<nav>
+  <a href="https://nl.pinterest.com/pin/743656957247922682/">image found on Pinterest</a>
+</nav>
+
+<video controls width="250">
+  <source src="https://vm.tiktok.com/ZGeLpCNCD/" type="video/webm">
+
+  <source src="/videos/zuko.MP4" type="video/MP4">
+</video>
+
+<div class="all-bending">
+  <img src="/images/fire.gif" alt="fire bending">
+</div>
+
+<div>
+  <nav>
+    <a href="https://nl.pinterest.com/pin/663858801336656416/">image found on Pinterest</a>
+  </nav>
+</div>
+
+<div class="aang-baby">
+  <img src="/images/youngzuko.jpg" alt="zuko young">
+</div>
+                
+<nav>
+  <a href="https://nl.pinterest.com/pin/102879172726982024/">image found on Pinterest</a>
+</nav>
+
+world building:
+<div class="team-avatar">
+  <img src="/images/nations.jpg.png" alt="Nations">
+</div>
+<a href="https://internetingishard.netlify.app/html-and-css/links-and-images/"></a>
+
+<nav>
+  <a href="https://terpconnect.umd.edu/~polsen/293/toyosi/ATLA.html">image by Terpconnect</a>
+</nav>
+            
+<div class="others">
+  <a href= water.html><img src="/images/water2.png" alt="water"></a>
+
+  <a href= earth.html><img src="/images/earth2.png" alt="earth"></a>
+
+  <a href= fire.html><img src="/images/fire2.png" alt="fire"></a>
+
+  <a href= air.html><img src="/images/air2.png" alt="air"></a>
+</div>
+
+<nav>
+  <a href="https://nl.pinterest.com/yuhhboidre/">images by Griffin</a>
+</nav>
+
+<nav>
+  <ul>
+    <li><a href="https://nl.pinterest.com/pin/111745634482693280/">image found on Pinterest</a></li>
+    <li><a href="https://avatar.fandom.com/wiki/Aang">info by Wiki Fandom</a></li>
+  </ul>
+</nav>
+
+<div class="others">
+  <a href= water.html><img src="/images/water2.png" alt="water"></a>
+
+  <a href= earth.html><img src="/images/earth2.png" alt="earth"></a>
+
+  <a href= fire.html><img src="/images/fire2.png" alt="fire"></a>
+</div>
+
+
